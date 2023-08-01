@@ -1,0 +1,15 @@
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\wordCount\bin\Debug\net6.0\wordCount.exe
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\wordCount\bin\Debug\net6.0\wordCount.deps.json
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\wordCount\bin\Debug\net6.0\wordCount.runtimeconfig.json
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\wordCount\bin\Debug\net6.0\wordCount.dll
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\wordCount\bin\Debug\net6.0\wordCount.pdb
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\wordCount\obj\Debug\net6.0\wordCount.csproj.AssemblyReference.cache
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\wordCount\obj\Debug\net6.0\wordCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\wordCount\obj\Debug\net6.0\wordCount.AssemblyInfoInputs.cache
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\wordCount\obj\Debug\net6.0\wordCount.AssemblyInfo.cs
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\wordCount\obj\Debug\net6.0\wordCount.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\wordCount\obj\Debug\net6.0\wordCount.dll
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\wordCount\obj\Debug\net6.0\refint\wordCount.dll
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\wordCount\obj\Debug\net6.0\wordCount.pdb
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\wordCount\obj\Debug\net6.0\wordCount.genruntimeconfig.cache
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\wordCount\obj\Debug\net6.0\ref\wordCount.dll

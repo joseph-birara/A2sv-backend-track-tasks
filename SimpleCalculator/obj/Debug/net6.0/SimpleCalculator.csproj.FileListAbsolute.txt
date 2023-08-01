@@ -1,0 +1,15 @@
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\SimpleCalculator\bin\Debug\net6.0\SimpleCalculator.exe
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\SimpleCalculator\bin\Debug\net6.0\SimpleCalculator.deps.json
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\SimpleCalculator\bin\Debug\net6.0\SimpleCalculator.runtimeconfig.json
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\SimpleCalculator\bin\Debug\net6.0\SimpleCalculator.dll
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\SimpleCalculator\bin\Debug\net6.0\SimpleCalculator.pdb
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\SimpleCalculator\obj\Debug\net6.0\SimpleCalculator.csproj.AssemblyReference.cache
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\SimpleCalculator\obj\Debug\net6.0\SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\SimpleCalculator\obj\Debug\net6.0\SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\SimpleCalculator\obj\Debug\net6.0\SimpleCalculator.AssemblyInfo.cs
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\SimpleCalculator\obj\Debug\net6.0\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\SimpleCalculator\obj\Debug\net6.0\SimpleCalculator.dll
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\SimpleCalculator\obj\Debug\net6.0\refint\SimpleCalculator.dll
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\SimpleCalculator\obj\Debug\net6.0\SimpleCalculator.pdb
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\SimpleCalculator\obj\Debug\net6.0\SimpleCalculator.genruntimeconfig.cache
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\SimpleCalculator\obj\Debug\net6.0\ref\SimpleCalculator.dll
