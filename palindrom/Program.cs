@@ -21,7 +21,17 @@ class Program
             else
             {
                 bool isPalindrome = IsPalindrome(inputText);
-                Console.WriteLine($"Is the input a palindrome? {isPalindrome}");
+
+                if (isPalindrome)
+                {
+                    Console.WriteLine($"{inputText} is a palindrome");
+
+                }
+                else
+                {
+                    Console.WriteLine($"{inputText} isn't a palindrome.");
+                }
+
             }
         }
     }
@@ -31,7 +41,7 @@ class Program
         // Remove spaces and punctuation using a regular expression
         string cleanedInput = Regex.Replace(input, @"[\W_]", "").ToLowerInvariant();
 
-        // Compare the cleaned input with its reverse
+
         return cleanedInput.SequenceEqual(cleanedInput.Reverse());
     }
 }

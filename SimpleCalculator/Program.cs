@@ -21,7 +21,7 @@ class Program
         // Use a dictionary to store subject names and corresponding grades
         Dictionary<string, double> subjectGrades = new Dictionary<string, double>();
 
-        // Loop to input subject names and grades
+
         for (int i = 0; i < numSubjects; i++)
         {
             Console.Write($"Enter the name of subject {i + 1}: ");
@@ -43,7 +43,7 @@ class Program
             subjectGrades.Add(subjectName, grade);
         }
 
-        // Calculate the average grade using the CalculateAverageGrade method
+
         double averageGrade = CalculateAverageGrade(subjectGrades);
 
         // Display the results using string interpolation
