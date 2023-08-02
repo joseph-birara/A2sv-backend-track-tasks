@@ -1,0 +1,15 @@
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\ShapeClass\bin\Debug\net6.0\ShapeClass.exe
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\ShapeClass\bin\Debug\net6.0\ShapeClass.deps.json
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\ShapeClass\bin\Debug\net6.0\ShapeClass.runtimeconfig.json
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\ShapeClass\bin\Debug\net6.0\ShapeClass.dll
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\ShapeClass\bin\Debug\net6.0\ShapeClass.pdb
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\ShapeClass\obj\Debug\net6.0\ShapeClass.csproj.AssemblyReference.cache
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\ShapeClass\obj\Debug\net6.0\ShapeClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\ShapeClass\obj\Debug\net6.0\ShapeClass.AssemblyInfoInputs.cache
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\ShapeClass\obj\Debug\net6.0\ShapeClass.AssemblyInfo.cs
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\ShapeClass\obj\Debug\net6.0\ShapeClass.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\ShapeClass\obj\Debug\net6.0\ShapeClass.dll
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\ShapeClass\obj\Debug\net6.0\refint\ShapeClass.dll
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\ShapeClass\obj\Debug\net6.0\ShapeClass.pdb
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\ShapeClass\obj\Debug\net6.0\ShapeClass.genruntimeconfig.cache
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\ShapeClass\obj\Debug\net6.0\ref\ShapeClass.dll

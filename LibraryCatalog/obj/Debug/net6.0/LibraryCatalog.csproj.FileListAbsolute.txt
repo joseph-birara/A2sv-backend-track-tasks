@@ -1,0 +1,15 @@
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\LibraryCatalog\bin\Debug\net6.0\LibraryCatalog.exe
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\LibraryCatalog\bin\Debug\net6.0\LibraryCatalog.deps.json
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\LibraryCatalog\bin\Debug\net6.0\LibraryCatalog.runtimeconfig.json
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\LibraryCatalog\bin\Debug\net6.0\LibraryCatalog.dll
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\LibraryCatalog\bin\Debug\net6.0\LibraryCatalog.pdb
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\LibraryCatalog\obj\Debug\net6.0\LibraryCatalog.csproj.AssemblyReference.cache
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\LibraryCatalog\obj\Debug\net6.0\LibraryCatalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\LibraryCatalog\obj\Debug\net6.0\LibraryCatalog.AssemblyInfoInputs.cache
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\LibraryCatalog\obj\Debug\net6.0\LibraryCatalog.AssemblyInfo.cs
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\LibraryCatalog\obj\Debug\net6.0\LibraryCatalog.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\LibraryCatalog\obj\Debug\net6.0\LibraryCatalog.dll
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\LibraryCatalog\obj\Debug\net6.0\refint\LibraryCatalog.dll
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\LibraryCatalog\obj\Debug\net6.0\LibraryCatalog.pdb
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\LibraryCatalog\obj\Debug\net6.0\LibraryCatalog.genruntimeconfig.cache
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\LibraryCatalog\obj\Debug\net6.0\ref\LibraryCatalog.dll
