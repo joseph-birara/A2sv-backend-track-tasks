@@ -1,0 +1,15 @@
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\StudentManagmentSystem\bin\Debug\net6.0\StudentManagmentSystem.exe
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\StudentManagmentSystem\bin\Debug\net6.0\StudentManagmentSystem.deps.json
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\StudentManagmentSystem\bin\Debug\net6.0\StudentManagmentSystem.runtimeconfig.json
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\StudentManagmentSystem\bin\Debug\net6.0\StudentManagmentSystem.dll
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\StudentManagmentSystem\bin\Debug\net6.0\StudentManagmentSystem.pdb
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\StudentManagmentSystem\obj\Debug\net6.0\StudentManagmentSystem.csproj.AssemblyReference.cache
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\StudentManagmentSystem\obj\Debug\net6.0\StudentManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\StudentManagmentSystem\obj\Debug\net6.0\StudentManagmentSystem.AssemblyInfoInputs.cache
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\StudentManagmentSystem\obj\Debug\net6.0\StudentManagmentSystem.AssemblyInfo.cs
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\StudentManagmentSystem\obj\Debug\net6.0\StudentManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\StudentManagmentSystem\obj\Debug\net6.0\StudentManagmentSystem.dll
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\StudentManagmentSystem\obj\Debug\net6.0\refint\StudentManagmentSystem.dll
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\StudentManagmentSystem\obj\Debug\net6.0\StudentManagmentSystem.pdb
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\StudentManagmentSystem\obj\Debug\net6.0\StudentManagmentSystem.genruntimeconfig.cache
+C:\Users\josep\OneDrive\Documents\Documents\programing\a2sv-backend\A2sv-backend-track-tasks\StudentManagmentSystem\obj\Debug\net6.0\ref\StudentManagmentSystem.dll
