@@ -6,9 +6,12 @@ using System.Threading.Tasks;
 
 public enum TaskCategory
 {
+    school,
+    family,
     Personal,
     Work,
     Errands,
+
     Other
 
 }
@@ -33,7 +36,7 @@ public class TaskManager
         // Load tasks from the file when the TaskManager is initialized
         try
         {
-            await LoadTasksFromFileAsync(dataFilePath);
+            LoadTasksFromFileAsync(dataFilePath).Wait();
         }
         catch (Exception ex)
         {
