@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\josep\\OneDrive\\Documents\\Documents\\programing\\a2sv-backend\\A2sv-backend-track-tasks\\BloggingApp\\BloggingApp.csproj": {}
+    "C:\\Users\\josep\\OneDrive\\desktop\\A2sv\\A2sv-backend-track-tasks\\BloggingApp\\BloggingApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\josep\\OneDrive\\Documents\\Documents\\programing\\a2sv-backend\\A2sv-backend-track-tasks\\BloggingApp\\BloggingApp.csproj": {
+    "C:\\Users\\josep\\OneDrive\\desktop\\A2sv\\A2sv-backend-track-tasks\\BloggingApp\\BloggingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josep\\OneDrive\\Documents\\Documents\\programing\\a2sv-backend\\A2sv-backend-track-tasks\\BloggingApp\\BloggingApp.csproj",
+        "projectUniqueName": "C:\\Users\\josep\\OneDrive\\desktop\\A2sv\\A2sv-backend-track-tasks\\BloggingApp\\BloggingApp.csproj",
         "projectName": "BloggingApp",
-        "projectPath": "C:\\Users\\josep\\OneDrive\\Documents\\Documents\\programing\\a2sv-backend\\A2sv-backend-track-tasks\\BloggingApp\\BloggingApp.csproj",
+        "projectPath": "C:\\Users\\josep\\OneDrive\\desktop\\A2sv\\A2sv-backend-track-tasks\\BloggingApp\\BloggingApp.csproj",
         "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josep\\OneDrive\\Documents\\Documents\\programing\\a2sv-backend\\A2sv-backend-track-tasks\\BloggingApp\\obj\\",
+        "outputPath": "C:\\Users\\josep\\OneDrive\\desktop\\A2sv\\A2sv-backend-track-tasks\\BloggingApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\josep\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,6 +38,16 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
               "version": "[7.0.4, )"
@@ -66,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,6 +1,7 @@
 using System;
+using System.Collections.Generic; // Add this namespace for ICollection
 
-namespace BloggingApp.WebApi.Models
+namespace BloggingApp.Models
 {
     public class Post
     {
@@ -8,5 +9,8 @@ namespace BloggingApp.WebApi.Models
         public string Title { get; set; }
         public string Content { get; set; }
         public DateTime CreatedAt { get; set; }
+
+        // Navigation property for the associated Comments
+        public ICollection<Comment> Comments { get; set; }
     }
 }

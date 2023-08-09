@@ -1,6 +1,6 @@
 using System;
 
-namespace BloggingApp.WebApi.Models
+namespace BloggingApp.Models
 {
     public class Comment
     {
@@ -8,5 +8,8 @@ namespace BloggingApp.WebApi.Models
         public int PostId { get; set; }
         public string Text { get; set; }
         public DateTime CreatedAt { get; set; }
+
+        // Navigation property for the associated Post
+        public Post Post { get; set; }
     }
 }
