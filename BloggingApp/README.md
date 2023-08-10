@@ -9,7 +9,8 @@ This is a sample ASP.NET Core Web API project for a blogging application. The pr
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+- [Tools](#Used Tools and Packages)
+
 
 ## Project Overview
 
@@ -32,6 +33,28 @@ The project consists of the following components:
 - Add posts
 - Delete posts 
 - Update posts
+
+## Used Tools and Packages
+
+The BloggingApp project utilizes the following tools and packages:
+
+- [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core): A cross-platform, high-performance framework for building modern, cloud-based, and internet-connected applications.
+
+- [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/): An Object-Relational Mapping (ORM) framework that simplifies database interactions.
+
+- [Moq](https://github.com/moq/moq4): A mocking library for .NET that allows you to create mock objects for unit testing.
+
+- [XUnit](https://xunit.net/): A unit testing framework for .NET that supports test-driven development.
+
+- [Swagger UI](https://swagger.io/tools/swagger-ui/): A tool for visualizing and interacting with APIs using a web interface.
+
+- [Microsoft.Extensions.DependencyInjection](https://www.nuget.org/packages/Microsoft.Extensions.DependencyInjection/): A package for configuring and using dependency injection in ASP.NET Core applications.
+
+- [Npgsql.EntityFrameworkCore.PostgreSQL](https://www.nuget.org/packages/Npgsql.EntityFrameworkCore.PostgreSQL/): A PostgreSQL provider for Entity Framework Core, allowing you to use PostgreSQL as the database backend.
+
+## Installation
+
+To install the required packages, you can use the NuGet Package Manager Console:
 
 ## Getting Started
 
