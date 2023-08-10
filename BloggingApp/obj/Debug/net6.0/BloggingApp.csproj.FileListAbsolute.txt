@@ -12,6 +12,7 @@ C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\BloggingApp\bin\De
 C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\BloggingApp\bin\Debug\net6.0\BloggingApp.runtimeconfig.json
 C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\BloggingApp\bin\Debug\net6.0\BloggingApp.dll
 C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\BloggingApp\bin\Debug\net6.0\BloggingApp.pdb
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\BloggingApp\bin\Debug\net6.0\Castle.Core.dll
 C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\BloggingApp\bin\Debug\net6.0\Humanizer.dll
 C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\BloggingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\BloggingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -29,6 +30,7 @@ C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\BloggingApp\bin\De
 C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\BloggingApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
 C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\BloggingApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
 C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\BloggingApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\BloggingApp\bin\Debug\net6.0\Moq.dll
 C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\BloggingApp\bin\Debug\net6.0\Npgsql.dll
 C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\BloggingApp\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\BloggingApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
@@ -37,6 +39,10 @@ C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\BloggingApp\bin\De
 C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\BloggingApp\bin\Debug\net6.0\System.CodeDom.dll
 C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\BloggingApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\BloggingApp\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\BloggingApp\bin\Debug\net6.0\xunit.abstractions.dll
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\BloggingApp\bin\Debug\net6.0\xunit.assert.dll
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\BloggingApp\bin\Debug\net6.0\xunit.core.dll
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\BloggingApp\bin\Debug\net6.0\xunit.execution.dotnet.dll
 C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\BloggingApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\BloggingApp\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\BloggingApp\obj\Debug\net6.0\staticwebassets.development.json

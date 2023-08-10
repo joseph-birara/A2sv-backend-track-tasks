@@ -48,6 +48,10 @@
               "target": "Package",
               "version": "[7.0.5, )"
             },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
               "version": "[7.0.4, )"
@@ -55,6 +59,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
             }
           },
           "imports": [
