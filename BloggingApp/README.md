@@ -9,7 +9,8 @@ This is a sample ASP.NET Core Web API project for a blogging application. The pr
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Tools](#Used Tools and Packages)
+- [Used Tools and Packages](#used-tools-and-packages)
+
 
 
 ## Project Overview
