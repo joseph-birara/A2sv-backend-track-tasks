@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\josep\\OneDrive\\desktop\\A2sv\\A2sv-backend-track-tasks\\CleanBlogApi\\CleanBlogApi.csproj": {}
+    "C:\\Users\\josep\\OneDrive\\desktop\\A2sv\\A2sv-backend-track-tasks\\CleanBlogApi\\BlogApi.Application\\BlogApi.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\josep\\OneDrive\\desktop\\A2sv\\A2sv-backend-track-tasks\\CleanBlogApi\\CleanBlogApi.csproj": {
+    "C:\\Users\\josep\\OneDrive\\desktop\\A2sv\\A2sv-backend-track-tasks\\CleanBlogApi\\BlogApi.Application\\BlogApi.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josep\\OneDrive\\desktop\\A2sv\\A2sv-backend-track-tasks\\CleanBlogApi\\CleanBlogApi.csproj",
-        "projectName": "CleanBlogApi",
-        "projectPath": "C:\\Users\\josep\\OneDrive\\desktop\\A2sv\\A2sv-backend-track-tasks\\CleanBlogApi\\CleanBlogApi.csproj",
+        "projectUniqueName": "C:\\Users\\josep\\OneDrive\\desktop\\A2sv\\A2sv-backend-track-tasks\\CleanBlogApi\\BlogApi.Application\\BlogApi.Application.csproj",
+        "projectName": "BlogApi.Application",
+        "projectPath": "C:\\Users\\josep\\OneDrive\\desktop\\A2sv\\A2sv-backend-track-tasks\\CleanBlogApi\\BlogApi.Application\\BlogApi.Application.csproj",
         "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josep\\OneDrive\\desktop\\A2sv\\A2sv-backend-track-tasks\\CleanBlogApi\\obj\\",
+        "outputPath": "C:\\Users\\josep\\OneDrive\\desktop\\A2sv\\A2sv-backend-track-tasks\\CleanBlogApi\\BlogApi.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\josep\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,12 +37,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.5.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -55,9 +49,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

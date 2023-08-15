@@ -442,11 +442,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josep\\OneDrive\\desktop\\A2sv\\A2sv-backend-track-tasks\\CleanBlogApi\\CleanBlogApi.csproj",
-      "projectName": "CleanBlogApi",
-      "projectPath": "C:\\Users\\josep\\OneDrive\\desktop\\A2sv\\A2sv-backend-track-tasks\\CleanBlogApi\\CleanBlogApi.csproj",
+      "projectUniqueName": "C:\\Users\\josep\\OneDrive\\desktop\\A2sv\\A2sv-backend-track-tasks\\CleanBlogApi\\BlogApi.WebApi\\BlogApi.WebApi.csproj",
+      "projectName": "BlogApi.WebApi",
+      "projectPath": "C:\\Users\\josep\\OneDrive\\desktop\\A2sv\\A2sv-backend-track-tasks\\CleanBlogApi\\BlogApi.WebApi\\BlogApi.WebApi.csproj",
       "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josep\\OneDrive\\desktop\\A2sv\\A2sv-backend-track-tasks\\CleanBlogApi\\obj\\",
+      "outputPath": "C:\\Users\\josep\\OneDrive\\desktop\\A2sv\\A2sv-backend-track-tasks\\CleanBlogApi\\BlogApi.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\josep\\AppData\\Roaming\\NuGet\\NuGet.Config"
