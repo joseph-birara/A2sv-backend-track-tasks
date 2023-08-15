@@ -1,0 +1,28 @@
+The videos demonstrate the implementation of the clean architecture with .NET by building a leave management system.
+This practical example helps to illustrate how the clean architecture principles are applied in a real-world scenario.
+The key concepts presented in the videos include:
+
+Domain Layer: In the context of the leave management system, 
+the domain layer defines the core entities and logic related to leaves. 
+It might encompass concepts like LeaveRequest, Employee, and LeaveType.
+The domain layer remains independent and isolated from external dependencies.
+
+Application Layer: The application layer handles the use cases specific to the leave management system. 
+It defines interfaces for operations like submitting leave requests, approving or rejecting requests, 
+and calculating leave balances. This layer also includes DTOs for transferring data between different parts of the system.
+
+Infrastructure Layer: The infrastructure layer is responsible for implementing the interfaces from the application layer.
+ For instance, it might involve connecting to a database to store leave requests and employee information. 
+ Different projects within this layer could employ various technologies, such as Entity Framework for database access.
+
+Presentation (API) Layer: The presentation layer deals with user interaction.
+For the leave management system, it encompasses the API endpoints that allow employees to submit leave requests,
+ managers to approve or reject requests, and users to view leave balances.
+ This layer communicates with the application layer to execute the relevant use cases.
+
+By building a leave management system with .NET using the clean architecture,
+ the videos showcase the practical application of the clean architecture principles.
+They demonstrate how to organize the codebase into distinct layers, establish clear boundaries,
+and ensure that changes in one part of the system do not adversely affect other parts.
+This approach enhances code quality, maintainability, and adaptability,
+ making it easier to evolve the system over time while minimizing the risk of unintended side effects.
