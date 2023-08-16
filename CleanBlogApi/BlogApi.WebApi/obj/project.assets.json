@@ -88,6 +88,43 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "BlogApi.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BlogApi.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BlogApi.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlogApi.Application.dll": {}
+        }
+      },
+      "BlogApi.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BlogApi.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlogApi.Domain.dll": {}
+        }
+      },
+      "BlogApi.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BlogApi.Application": "1.0.0",
+          "BlogApi.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BlogApi.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlogApi.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -429,10 +466,28 @@
         "swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "BlogApi.Application/1.0.0": {
+      "type": "project",
+      "path": "../BlogApi.Application/BlogApi.Application.csproj",
+      "msbuildProject": "../BlogApi.Application/BlogApi.Application.csproj"
+    },
+    "BlogApi.Domain/1.0.0": {
+      "type": "project",
+      "path": "../BlogApi.Domain/BlogApi.Domain.csproj",
+      "msbuildProject": "../BlogApi.Domain/BlogApi.Domain.csproj"
+    },
+    "BlogApi.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../BlogApi.Infrastructure/BlogApi.Infrastructure.csproj",
+      "msbuildProject": "../BlogApi.Infrastructure/BlogApi.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "BlogApi.Application >= 1.0.0",
+      "BlogApi.Domain >= 1.0.0",
+      "BlogApi.Infrastructure >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
   },
@@ -460,7 +515,17 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\josep\\OneDrive\\desktop\\A2sv\\A2sv-backend-track-tasks\\CleanBlogApi\\BlogApi.Application\\BlogApi.Application.csproj": {
+              "projectPath": "C:\\Users\\josep\\OneDrive\\desktop\\A2sv\\A2sv-backend-track-tasks\\CleanBlogApi\\BlogApi.Application\\BlogApi.Application.csproj"
+            },
+            "C:\\Users\\josep\\OneDrive\\desktop\\A2sv\\A2sv-backend-track-tasks\\CleanBlogApi\\BlogApi.Domain\\BlogApi.Domain.csproj": {
+              "projectPath": "C:\\Users\\josep\\OneDrive\\desktop\\A2sv\\A2sv-backend-track-tasks\\CleanBlogApi\\BlogApi.Domain\\BlogApi.Domain.csproj"
+            },
+            "C:\\Users\\josep\\OneDrive\\desktop\\A2sv\\A2sv-backend-track-tasks\\CleanBlogApi\\BlogApi.Infrastructure\\BlogApi.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\josep\\OneDrive\\desktop\\A2sv\\A2sv-backend-track-tasks\\CleanBlogApi\\BlogApi.Infrastructure\\BlogApi.Infrastructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

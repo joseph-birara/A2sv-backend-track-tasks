@@ -6,4 +6,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <!-- Add reference to BlogApi.Application.Interfaces project -->
+  <ItemGroup>
+    <ProjectReference Include="..\BlogApi.Application\BlogApi.Application.csproj" />
+    <ProjectReference Include="..\BlogApi.Domain\BlogApi.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -1,0 +1,15 @@
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\CleanBlogApi\BlogApi.Application\bin\Debug\net6.0\BlogApi.Application.deps.json
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\CleanBlogApi\BlogApi.Application\bin\Debug\net6.0\BlogApi.Application.dll
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\CleanBlogApi\BlogApi.Application\bin\Debug\net6.0\BlogApi.Application.pdb
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\CleanBlogApi\BlogApi.Application\bin\Debug\net6.0\BlogApi.Domain.dll
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\CleanBlogApi\BlogApi.Application\bin\Debug\net6.0\BlogApi.Domain.pdb
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\CleanBlogApi\BlogApi.Application\obj\Debug\net6.0\BlogApi.Application.csproj.AssemblyReference.cache
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\CleanBlogApi\BlogApi.Application\obj\Debug\net6.0\BlogApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\CleanBlogApi\BlogApi.Application\obj\Debug\net6.0\BlogApi.Application.AssemblyInfoInputs.cache
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\CleanBlogApi\BlogApi.Application\obj\Debug\net6.0\BlogApi.Application.AssemblyInfo.cs
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\CleanBlogApi\BlogApi.Application\obj\Debug\net6.0\BlogApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\CleanBlogApi\BlogApi.Application\obj\Debug\net6.0\BlogApi.Application.csproj.CopyComplete
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\CleanBlogApi\BlogApi.Application\obj\Debug\net6.0\BlogApi.Application.dll
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\CleanBlogApi\BlogApi.Application\obj\Debug\net6.0\refint\BlogApi.Application.dll
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\CleanBlogApi\BlogApi.Application\obj\Debug\net6.0\BlogApi.Application.pdb
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\CleanBlogApi\BlogApi.Application\obj\Debug\net6.0\ref\BlogApi.Application.dll

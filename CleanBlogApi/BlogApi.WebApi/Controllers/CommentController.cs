@@ -9,9 +9,9 @@ namespace BlogApi.WebApi.Controllers
     [Route("api/posts/{postId}/[controller]")]
     public class CommentsController : ControllerBase
     {
-        private readonly ICommentService _commentService;
+        private readonly ICommentRepository _commentService;
 
-        public CommentsController(ICommentService commentService)
+        public CommentsController(ICommentRepository commentService)
         {
             _commentService = commentService;
         }

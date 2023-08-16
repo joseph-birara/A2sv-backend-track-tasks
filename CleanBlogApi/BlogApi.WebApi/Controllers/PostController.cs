@@ -10,9 +10,9 @@ namespace BlogApi.WebApi.Controllers
     [Route("api/[controller]")]
     public class PostsController : ControllerBase
     {
-        private readonly IPostService _postService;
+        private readonly IPostRepository _postService;
 
-        public PostsController(IPostService postService)
+        public PostsController(IPostRepository postService)
         {
             _postService = postService;
         }

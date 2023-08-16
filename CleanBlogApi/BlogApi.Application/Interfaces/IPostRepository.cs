@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 namespace BlogApi.Application.Interfaces
 {
-    public interface IPostService
+    public interface IPostRepository
     {
         Post CreatePost(string title, string content);
         Post GetPostById(int postId);

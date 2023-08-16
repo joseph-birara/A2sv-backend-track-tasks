@@ -10,12 +10,21 @@ namespace BlogApi.Infrastructure.Repositories
     {
         private readonly List<Post> _posts = new List<Post>();
 
-        public void Create(Post post)
+        public Post CreatePost(string title, string content)
         {
-            _posts.Add(post);
+            var newPost = new Post
+            {
+                Id = _posts.Count + 1,
+                Title = title,
+                Content = content
+            };
+
+            _posts.Add(newPost);
+
+            return newPost;
         }
 
-        public Post GetById(int postId)
+        public Post GetPostById(int postId)
         {
             return _posts.FirstOrDefault(post => post.Id == postId);
         }
@@ -25,7 +34,7 @@ namespace BlogApi.Infrastructure.Repositories
             return _posts.ToList();
         }
 
-        public void Update(Post post)
+        public void UpdatePost(Post post)
         {
             var existingPost = _posts.FirstOrDefault(p => p.Id == post.Id);
             if (existingPost != null)
@@ -39,7 +48,7 @@ namespace BlogApi.Infrastructure.Repositories
             }
         }
 
-        public bool Delete(int postId)
+        public bool DeletePost(int postId)
         {
             var existingPost = _posts.FirstOrDefault(post => post.Id == postId);
             if (existingPost != null)
@@ -49,5 +58,7 @@ namespace BlogApi.Infrastructure.Repositories
             }
             return false;
         }
+
+
     }
 }

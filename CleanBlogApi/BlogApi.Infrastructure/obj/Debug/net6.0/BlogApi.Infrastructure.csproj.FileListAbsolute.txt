@@ -1,0 +1,17 @@
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\CleanBlogApi\BlogApi.Infrastructure\bin\Debug\net6.0\BlogApi.Infrastructure.deps.json
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\CleanBlogApi\BlogApi.Infrastructure\bin\Debug\net6.0\BlogApi.Infrastructure.dll
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\CleanBlogApi\BlogApi.Infrastructure\bin\Debug\net6.0\BlogApi.Infrastructure.pdb
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\CleanBlogApi\BlogApi.Infrastructure\bin\Debug\net6.0\BlogApi.Application.dll
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\CleanBlogApi\BlogApi.Infrastructure\bin\Debug\net6.0\BlogApi.Domain.dll
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\CleanBlogApi\BlogApi.Infrastructure\bin\Debug\net6.0\BlogApi.Application.pdb
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\CleanBlogApi\BlogApi.Infrastructure\bin\Debug\net6.0\BlogApi.Domain.pdb
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\CleanBlogApi\BlogApi.Infrastructure\obj\Debug\net6.0\BlogApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\CleanBlogApi\BlogApi.Infrastructure\obj\Debug\net6.0\BlogApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\CleanBlogApi\BlogApi.Infrastructure\obj\Debug\net6.0\BlogApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\CleanBlogApi\BlogApi.Infrastructure\obj\Debug\net6.0\BlogApi.Infrastructure.AssemblyInfo.cs
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\CleanBlogApi\BlogApi.Infrastructure\obj\Debug\net6.0\BlogApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\CleanBlogApi\BlogApi.Infrastructure\obj\Debug\net6.0\BlogApi.Infrastructure.csproj.CopyComplete
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\CleanBlogApi\BlogApi.Infrastructure\obj\Debug\net6.0\BlogApi.Infrastructure.dll
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\CleanBlogApi\BlogApi.Infrastructure\obj\Debug\net6.0\refint\BlogApi.Infrastructure.dll
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\CleanBlogApi\BlogApi.Infrastructure\obj\Debug\net6.0\BlogApi.Infrastructure.pdb
+C:\Users\josep\OneDrive\desktop\A2sv\A2sv-backend-track-tasks\CleanBlogApi\BlogApi.Infrastructure\obj\Debug\net6.0\ref\BlogApi.Infrastructure.dll

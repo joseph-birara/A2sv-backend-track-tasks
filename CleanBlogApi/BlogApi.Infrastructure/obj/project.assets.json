@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "BlogApi.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BlogApi.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BlogApi.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlogApi.Application.dll": {}
+        }
+      },
+      "BlogApi.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BlogApi.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlogApi.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BlogApi.Application/1.0.0": {
+      "type": "project",
+      "path": "../BlogApi.Application/BlogApi.Application.csproj",
+      "msbuildProject": "../BlogApi.Application/BlogApi.Application.csproj"
+    },
+    "BlogApi.Domain/1.0.0": {
+      "type": "project",
+      "path": "../BlogApi.Domain/BlogApi.Domain.csproj",
+      "msbuildProject": "../BlogApi.Domain/BlogApi.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "BlogApi.Application >= 1.0.0",
+      "BlogApi.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\josep\\.nuget\\packages\\": {}
@@ -31,7 +69,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\josep\\OneDrive\\desktop\\A2sv\\A2sv-backend-track-tasks\\CleanBlogApi\\BlogApi.Application\\BlogApi.Application.csproj": {
+              "projectPath": "C:\\Users\\josep\\OneDrive\\desktop\\A2sv\\A2sv-backend-track-tasks\\CleanBlogApi\\BlogApi.Application\\BlogApi.Application.csproj"
+            },
+            "C:\\Users\\josep\\OneDrive\\desktop\\A2sv\\A2sv-backend-track-tasks\\CleanBlogApi\\BlogApi.Domain\\BlogApi.Domain.csproj": {
+              "projectPath": "C:\\Users\\josep\\OneDrive\\desktop\\A2sv\\A2sv-backend-track-tasks\\CleanBlogApi\\BlogApi.Domain\\BlogApi.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace BlogApi.Application.Interfaces
 {
-    public interface ICommentService
+    public interface ICommentRepository
     {
         Comment AddComment(int postId, string text);
         Comment GetCommentById(int commentId);

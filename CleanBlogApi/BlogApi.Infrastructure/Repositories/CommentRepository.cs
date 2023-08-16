@@ -10,22 +10,12 @@ namespace BlogApi.Infrastructure.Repositories
     {
         private readonly List<Comment> _comments = new List<Comment>();
 
-        public void Create(Comment comment)
-        {
-            _comments.Add(comment);
-        }
-
-        public Comment GetById(int commentId)
+        public Comment GetCommentById(int commentId)
         {
             return _comments.FirstOrDefault(comment => comment.Id == commentId);
         }
 
-        public List<Comment> GetCommentsByPostId(int postId)
-        {
-            return _comments.Where(comment => comment.PostId == postId).ToList();
-        }
-
-        public void Update(Comment comment)
+        public void UpdateComment(Comment comment)
         {
             var existingComment = _comments.FirstOrDefault(c => c.Id == comment.Id);
             if (existingComment != null)
@@ -38,7 +28,7 @@ namespace BlogApi.Infrastructure.Repositories
             }
         }
 
-        public bool Delete(int commentId)
+        public bool DeleteComment(int commentId)
         {
             var existingComment = _comments.FirstOrDefault(comment => comment.Id == commentId);
             if (existingComment != null)
@@ -48,5 +38,21 @@ namespace BlogApi.Infrastructure.Repositories
             }
             return false;
         }
+
+        public Comment AddComment(int postId, string text)
+        {
+            var newComment = new Comment
+            {
+                Id = _comments.Count + 1,
+                Text = text,
+                PostId = postId
+            };
+
+            _comments.Add(newComment);
+
+            return newComment;
+        }
+
+
     }
 }
